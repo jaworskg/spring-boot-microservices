@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=jaworskg.microservices.configuration.basic.config.TomcatLogConfiguration
